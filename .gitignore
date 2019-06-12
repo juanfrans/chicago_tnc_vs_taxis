@@ -2,3 +2,5 @@
 01_SelectingData/input/TaxiTrips.csv
 01_SelectingData/output/SelectedTNC_Trips_181105_181111.csv
 01_SelectingData/output/SelectedTaxi_Trips_161107_161113.csv
+02_GeneratingSummaryTablesGraphs/output/SelectedTNC_Trips_181105_181111_Datetime.csv
+02_GeneratingSummaryTablesGraphs/output/SelectedTaxi_Trips_161107_161113_Datetime.csv
